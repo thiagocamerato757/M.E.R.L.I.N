@@ -18,7 +18,7 @@ A local, voice-first AI assistant for the desktop.
 
 ## Overview
 
-MERLIN is a desktop AI assistant you talk to. Say **"Merlin"**, speak naturally, and it listens, reasons and answers out loud, entirely on your own machine. A 3D particle orb reflects what the assistant is doing in real time: idle, listening, thinking or speaking.
+M.E.R.L.I.N is a desktop AI assistant you talk to. Say **"Merlin"**, speak naturally, and it listens, reasons and answers out loud, entirely on your own machine.
 
 It is built around three principles:
 
@@ -27,7 +27,7 @@ It is built around three principles:
 - **Safe by design.** Every tool the agent can use has a risk level, and destructive actions require your confirmation.
 
 > [!NOTE]
-> MERLIN is in early development and is being rebuilt from the ground up. Features below describe the planned scope.
+> M.E.R.L.I.N is in early development and is being rebuilt from the ground up. Features below describe the planned scope.
 
 ## Features
 
@@ -35,7 +35,6 @@ It is built around three principles:
 - 🧠 **Local LLMs** through Ollama, with optional OpenAI-compatible providers
 - 🛠️ **Agent tools** that act on your PC (files, apps, system info) with risk-based confirmation
 - 💾 **Long-term memory** of conversations and facts, stored locally
-- 🔮 **Reactive 3D orb** and a glass-style dashboard with draggable widgets
 - 📊 **System monitor** for CPU, RAM, VRAM and loaded models
 - 🖥️ **Native on Windows and Linux**, packaged as a single desktop app
 
@@ -47,7 +46,7 @@ It is built around three principles:
 
 ## Contributing
 
-MERLIN is a personal project, but issues and suggestions are welcome. Please open an issue before submitting a pull request.
+M.E.R.L.I.N is a personal project, but issues and suggestions are welcome. Please open an issue before submitting a pull request.
 
 ## License
 
