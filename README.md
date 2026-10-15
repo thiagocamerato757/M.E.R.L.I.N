@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/merling-icon-jade.png" alt="merling-icon" width="140">
+
 # M.E.R.L.I.N
 
 **M**achine for **E**xecuting, **R**easoning & **L**istening, **I**ntelligent & **N**ative
