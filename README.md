@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/merling-icon-jade.png" alt="merling-icon" width="140">
+<img src="assets/merlin-icon-jade.png" alt="MERLIN icon" width="140">
 
 # M.E.R.L.I.N
 
